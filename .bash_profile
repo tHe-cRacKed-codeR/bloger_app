@@ -1,4 +1,4 @@
-export MAIL_USER="the00cracked00coder@gmail.com"
-export MAIL_PASS="atvalkusuyadmolj"
-export SECRET_KEY="72177c89b4971f8bbf596c1a89218d2582a17a04eadc112f"
+export MAIL_USER="user@gmail.com"
+export MAIL_PASS="**********"
+export SECRET_KEY="72177c8****1f8**f596*****4eadc112f"
 export DEBUG_VALUE="True"
